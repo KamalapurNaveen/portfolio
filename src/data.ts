@@ -1,7 +1,7 @@
 export const hero = {
   name: "Naveen Kamalapur",
-  role: "Backend Engineer | Java (Spring Boot) & Node.js | AWS | System Design | GenAI & RAG Systems",
-  intro: "Backend Engineer with 2+ years of experience building scalable distributed systems, REST APIs, and GenAI-powered search solutions.",
+  role: "Full Stack Engineer | Java (Spring Boot) & NodeJS | ReactJS | AWS | System Design | GenAI & RAG Systems",
+  intro: "Full Stack Engineer with 2+ years of experience building scalable distributed systems, REST APIs, and GenAI-powered search solutions.",
   contact: {
     email: "naveen.kamalapur.developer@gmail.com",
     phone: "+91 9581689071",
@@ -29,7 +29,7 @@ export const experience = [
       "Engineered caching and indexing strategies to reduce API latency by 35% under high load.",
       "Delivered real-time audit logging with MongoDB Change Streams for traceability.",
     ],
-    tech: ["Java", "Spring Boot", "Node.js", "MongoDB", "PostgreSQL", "Redis", "AWS"],
+    tech: ["Java", "Spring Boot", "NodeJS","ReactJS", "MongoDB", "PostgreSQL", "Redis", "AWS"],
   },
   {
     title: "Software Engineer Intern",
@@ -42,7 +42,7 @@ export const experience = [
       "Designed event-driven approval workflows enabling managers to process HR actions from Slack.",
       "Developed secure, scalable APIs for HRMS integration and seamless automation.",
     ],
-    tech: ["Node.js", "MongoDB", "AWS", "Redis", "Slack APIs"],
+    tech: ["NodeJS", "MongoDB", "AWS", "Redis", "Slack APIs"],
   },
   {
     title: "DSA Teaching Assistant",
@@ -69,7 +69,7 @@ export const projects = [
       "Optimized chunking, caching, and retrieval to reduce response latency by 50%.",
       "Implemented scalable document storage and retrieval using AWS S3.",
     ],
-    tech: ["Node.js", "LangChain", "FAISS", "OpenAI API", "AWS S3"],
+    tech: ["NodeJS", "ReactJS","LangChain", "FAISS", "OpenAI API", "AWS S3"],
   },
   {
     title: "TalentSearch – Semantic Talent Matching",
@@ -79,7 +79,7 @@ export const projects = [
       "Implemented ranking and relevance scoring to improve precision and reduce time-to-hire.",
       "Built query interfaces with auto-suggest and filters for a polished UX.",
     ],
-    tech: ["Java", "Spring Boot", "Node.js", "MongoDB Vector Search", "OpenAI API", "Redis"],
+    tech: ["Java", "Spring Boot", "NodeJS", "ReactJS", "MongoDB Vector Search", "OpenAI API", "Redis"],
   },
 ];
 
@@ -89,8 +89,8 @@ export const skillCategories = [
     items: ["Java", "TypeScript", "Python", "C++", "SQL"],
   },
   {
-    category: "Backend",
-    items: ["Spring Boot", "Spring Data JPA", "REST APIs", "Microservices", "Node.js", "Express", "JWT", "OAuth2"],
+    category: "Technologies & Frameworks",
+    items: ["Spring Boot", "Spring Data JPA", "REST APIs", "Microservices", "NodeJS", "Express", "JWT", "OAuth2"],
   },
   {
     category: "Data & Cloud",
