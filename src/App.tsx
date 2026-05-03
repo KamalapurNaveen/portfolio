@@ -28,7 +28,7 @@ function App() {
                 Hi, I’m {hero.name}
               </p>
               <h1 className="mt-5 text-4xl font-semibold tracking-tight text-white sm:text-5xl">
-                Backend Engineer building scalable APIs, intelligent search, and GenAI systems.
+                Full Stack Engineer building scalable APIs, intelligent search, and GenAI systems.
               </h1>
               <p className="mt-5 inline-flex rounded-full border border-brand-400/20 bg-brand-500/10 px-4 py-2 text-sm font-semibold text-brand-100 shadow-sm shadow-brand-900/20">
                 {hero.role}
@@ -272,7 +272,7 @@ function App() {
               <p className="text-sm uppercase tracking-[0.28em] text-brand-300">Let’s connect</p>
               <h2 className="mt-3 text-3xl font-semibold text-white">Ready to build the next scalable platform?</h2>
               <p className="mt-4 max-w-2xl text-slate-300">
-                I’m available for backend engineering, cloud architecture, and GenAI system design opportunities. Reach out and let’s discuss the next project.
+                I’m available for Full Stack engineering, cloud architecture, and GenAI system design opportunities. Reach out and let’s discuss the next project.
               </p>
             </div>
             <div className="grid gap-3 sm:auto-cols-max sm:grid-flow-col">
